@@ -1,0 +1,14 @@
+C:\Users\ByTech\source\repos\lab4100\lab4100\bin\Debug\lab4100.exe.config
+C:\Users\ByTech\source\repos\lab4100\lab4100\bin\Debug\lab4100.exe
+C:\Users\ByTech\source\repos\lab4100\lab4100\bin\Debug\lab4100.pdb
+C:\Users\ByTech\source\repos\lab4100\lab4100\obj\Debug\lab4100.csprojAssemblyReference.cache
+C:\Users\ByTech\source\repos\lab4100\lab4100\obj\Debug\lab4100.csproj.CoreCompileInputs.cache
+C:\Users\ByTech\source\repos\lab4100\lab4100\obj\Debug\lab4100.exe
+C:\Users\ByTech\source\repos\lab4100\lab4100\obj\Debug\lab4100.pdb
+C:\Users\ByTech\source\repos\lab8\lab4100\bin\Debug\lab4100.exe.config
+C:\Users\ByTech\source\repos\lab8\lab4100\bin\Debug\lab4100.exe
+C:\Users\ByTech\source\repos\lab8\lab4100\bin\Debug\lab4100.pdb
+C:\Users\ByTech\source\repos\lab8\lab4100\obj\Debug\lab4100.csprojAssemblyReference.cache
+C:\Users\ByTech\source\repos\lab8\lab4100\obj\Debug\lab4100.csproj.CoreCompileInputs.cache
+C:\Users\ByTech\source\repos\lab8\lab4100\obj\Debug\lab4100.exe
+C:\Users\ByTech\source\repos\lab8\lab4100\obj\Debug\lab4100.pdb
